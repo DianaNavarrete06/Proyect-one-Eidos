@@ -51,6 +51,7 @@ header {
   padding-top: 100px;
 }
 /* Quise que la imagen comenzará abajo del header, pero creo que por los valores por default queda ajustada arriba y solamente con padding logré ajustarla */
+/* No pude centrar la imagen con propiedad flex, quisiera saber a que se debe */
 
 #Inicio {
   text-align: center;
